@@ -26,7 +26,7 @@
 
 .screen-header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between ;
     align-items: center;
     padding: 10px;
 }
@@ -35,6 +35,23 @@
  font-weight: 600;
 }
 .screen-header__span{
-    margin-left:50px;
+    margin-right:0px;
     color: black;
+
 }
+.friend-main__img {
+    width: 100px;
+    border-radius: 80px;
+}
+
+.friend-main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.friend-main-column{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+

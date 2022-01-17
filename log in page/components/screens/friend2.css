@@ -1,0 +1,16 @@
+
+.friend-main__name {
+    font-size: 32px;
+    text-align: left;
+    
+}
+.friend-main__text {
+line-height: 16PX;
+}
+.company img {
+    width: 100%;
+    height: 200px;
+}
+.company {
+    margin: 30px;
+}
