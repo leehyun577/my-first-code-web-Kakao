@@ -1,9 +1,12 @@
 .div-top {
-    padding: 50px;
+    padding: 20px;
     display: flex;
     justify-content: space-between;
     border-bottom: solid 1px black;
     margin: 10px;
+}
+.div-top span {
+    padding: 10px;
 }
 .div-top_icon{
     display: flex;
@@ -15,7 +18,7 @@
     flex-direction: column;
     border-bottom: solid 1px black;
     color: gray;
-    margin: 10px;
+    margin: 35px 10px 10px 10px;
 }
 .div-mid span {
     padding: 10px;
